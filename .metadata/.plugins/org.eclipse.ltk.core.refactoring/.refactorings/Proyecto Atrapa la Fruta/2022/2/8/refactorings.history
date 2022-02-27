@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;proyecto.Frtua&apos; to &apos;Fruta&apos;&#x0D;&#x0A;- Original project: &apos;Proyecto Atrapa la Fruta&apos;&#x0D;&#x0A;- Original element: &apos;proyecto.Frtua&apos;&#x0D;&#x0A;- Renamed element: &apos;proyecto.Fruta&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Frtua&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;proyecto{Frtua.java[Frtua" matchStrategy="1" name="Fruta" qualified="false" references="true" similarDeclarations="false" stamp="1645980448341" textual="false" version="1.0"/>
+</session>
